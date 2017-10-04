@@ -679,6 +679,11 @@ span.freeshipping {
     .logo img {
         position: static;
     }
+.social-icons {
+    text-align: center;
+    text-align: center;
+	float:none;
+}
 }
 @media(max-width: 767px) {
     
@@ -698,7 +703,7 @@ span.freeshipping {
         margin: -12px 0 0;
     }
     .mailinglist-input.form-control {
-        max-width: 200px;
+        max-width: 245px;
     }
     .social-icons li a {
         width: 24px;
