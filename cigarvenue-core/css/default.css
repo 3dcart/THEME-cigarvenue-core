@@ -98,14 +98,14 @@ h1 {
 .btn-default.btn-inverse,
 .btn-primary {
     color: #fff;
-    background-color: #000;
-    border-color: #000;
+    background-color: #502701;
+    border-color: #502701;
 }
 .btn-default.btn-inverse:hover,
 .btn-primary:hover {
 	color: #fff;
-    background-color: #000;
-    border-color: #000;
+    background-color: #502701;
+    border-color: #502701;
     opacity: 0.8;
 }
 .navbar-wrapper {
