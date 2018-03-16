@@ -957,3 +957,8 @@ Common page styles */
 iframe {
     display: block;
 }
+@media(min-width: 768px) {
+    .revealOnScroll {
+        opacity:0;
+    }
+}
