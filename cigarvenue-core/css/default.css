@@ -679,6 +679,12 @@ span.freeshipping {
     .logo img {
         position: static;
     }
+	.site-header .searchBox {
+		float: left;
+		padding: 0;
+		width: 100%;
+		margin-top: 20px;
+	}
 }
 @media(max-width: 767px) {
     
