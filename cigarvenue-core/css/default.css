@@ -14,7 +14,23 @@ body {
 footer {
 	flex-shrink: 0;
 }
-
+.product-items.productList .product-item .img a {
+    position: initial;
+}
+.homepage-blog-posts div#postContent {
+    height: 128px;
+}
+@media(max-width:767px){
+	.homepage-blog-posts div#postContent {
+		height: auto;
+	}
+}
+@media (max-width: 991px){
+.product-items.productList .product-item .img {
+    padding-right: 0;
+    width: 32%;
+}
+}
 body {
     /*font-family: 'Montserrat', sans-serif;*/
 	font-family: 'Roboto Slab', serif;
@@ -614,7 +630,7 @@ span.freeshipping {
 */
 .products-section {
     background-color: #fff;
-    padding: 60px 0;
+    padding: 20px 0;
 }
 .products-section h2 {
     text-align: left;
