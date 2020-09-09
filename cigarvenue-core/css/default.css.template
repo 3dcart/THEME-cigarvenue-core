@@ -343,6 +343,7 @@ h1 {
 .site-header .searchBox {
     float: right;
     padding:0;
+	position:relative;
 }
 
 .searchBox {
